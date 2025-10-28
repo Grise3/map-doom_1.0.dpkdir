@@ -1,4 +1,4 @@
-DooM, by Grise.[LBF] for Unvanquished.
+DooM, by Grise, Masmblr and Sweet for Unvanquished.
  
 ## Credits
  
